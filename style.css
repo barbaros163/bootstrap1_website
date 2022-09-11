@@ -1,0 +1,63 @@
+/*! -------------- 1- NAVBAR ---------------- */
+
+/*! ------------- 2- BANNER --------------- */
+.banner {
+  background: url(./img/banner.jpeg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: purple;
+  height: 100vh;
+}
+
+/*! ------------ 3- SERVICES ----------- */
+
+#icons {
+  border: 3rem solid #dc3545;
+  color: white;
+}
+
+#headers {
+  font-size: x-large;
+}
+
+/*! ------------- 4- PORTFOLIO-------------*/
+
+/*! ----------- 4- ABOUT-US ----------*/
+.img-thumbnail {
+  border: none;
+}
+
+/*! ----------- 5- OUR-TEAM ----------- */
+#img_team {
+  border: 0.6rem solid #cccccc;
+  color: black;
+  border-radius: 50%;
+  width: 15rem;
+}
+
+#team_icons {
+  border: 1rem solid black;
+  color: white;
+  cursor: pointer;
+}
+
+/*! ----------- 6- REFERENCES ------------ */
+#reference_img {
+  width: 7rem;
+}
+
+/*! --------------- 7- CONTACT-US ----------------- */
+.contact {
+  background: url(./img/map.jpeg) no-repeat center center;
+  background-size: cover;
+}
+
+#form_btn {
+  margin: 2rem;
+}
+
+/*! --------------- 7- FOOTER ----------------- */
+footer {
+  padding: 2rem;
+}
