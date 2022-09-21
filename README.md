@@ -1,7 +1,9 @@
 
-# Bootstrap Web Page
+# Hi, I'm Yasin! 👋
 
 
+## 🚀 About Me
+A passionate Full-Stack developer from Anatolien
 
 
 ## Authors
@@ -12,12 +14,13 @@
 
 
 
+# Bootstrap Web Page
+Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with a template starter page.
+
+
+
 ## 🛠 Skills
 HTML, CSS, Bootstrap
-
-
-## 🚀 About Me
-A passionate Full-Stack developer from Anatolien
 
 
 ## Demo
