@@ -1,7 +1,7 @@
 
-# Teamproject_1
+# Bootstrap Web Page
 
-Successful Industrial Company HTML Template
+
 
 
 ## Authors
@@ -13,7 +13,7 @@ Successful Industrial Company HTML Template
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+HTML, CSS, Bootstrap
 
 
 ## 🚀 About Me
